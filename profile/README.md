@@ -1,32 +1,32 @@
 # Telefónica Hispam
 
-Welcome to the Telefónica Hispam organization on GitHub! We're thrilled to have you here. This README.md file provides an overview of our organization and how you can get involved.
+¡Bienvenido a la organización de Telefónica Hispam en GitHub! Estamos encantados de tenerte aquí. Este archivo README.md proporciona una descripción general de nuestra organización y cómo puedes participar.
 
-## 🙋‍♀️ About Us
+## 🙋‍♀️ Sobre Nosotros
 
-Telefónica Hispam is a technology company focused on providing innovative solutions and services in the telecommunications industry. Our mission is to connect people and enable digital transformation in the Hispanic and Latin American markets.
+Telefónica Hispam es una empresa de tecnología enfocada en brindar soluciones y servicios innovadores en la industria de las telecomunicaciones. Nuestra misión es conectar personas y habilitar la transformación digital en los mercados hispanos y latinoamericanos.
 
-## 🌈 Contribution Guidelines
+## 🌈 Pautas de Contribución
 
-We believe in the power of collaboration and welcome contributions from the community. Whether you're a developer, designer, or have expertise in other areas, there are several ways you can get involved:
+Creemos en el poder de la colaboración y damos la bienvenida a las contribuciones de la comunidad. Ya seas desarrollador, diseñador o tengas experiencia en otras áreas, hay varias formas en las que puedes participar:
 
-- **Issues and Bug Reports:** Help us improve our projects by reporting issues or bugs you encounter. Feel free to submit detailed bug reports or suggest enhancements.
+- **Informes de Problemas y Errores:** Ayúdanos a mejorar nuestros proyectos informando los problemas o errores que encuentres. Siéntete libre de enviar informes detallados de errores o sugerir mejoras.
 
-- **Pull Requests:** If you have code improvements, new features, or bug fixes, submit a pull request. We appreciate your contributions and will review them as soon as possible.
+- **Solicitudes de Extracción (Pull Requests):** Si tienes mejoras de código, nuevas características o correcciones de errores, envía una solicitud de extracción. Apreciamos tus contribuciones y las revisaremos lo antes posible.
 
-- **Feedback and Discussions:** Engage in discussions about our projects, share ideas, or ask questions. Your feedback is valuable to us and helps us make better decisions.
+- **Comentarios y Discusiones:** Participa en discusiones sobre nuestros proyectos, comparte ideas o haz preguntas. Tus comentarios son valiosos para nosotros y nos ayudan a tomar mejores decisiones.
 
-Please review our [Contribution Guidelines](CONTRIBUTING.md) for more details on how to contribute.
+Por favor, revisa nuestras [Pautas de Contribución](CONTRIBUTING.md) para obtener más detalles sobre cómo contribuir.
 
-## 👩‍💻 Useful Resources
+## 👩‍💻 Recursos Útiles
 
-Here are some resources where you can find more information about our projects and documentation:
+Aquí tienes algunos recursos donde puedes encontrar más información sobre nuestros proyectos y documentación:
 
-- [Official Website](https://www.telefonica.com/)
-- [API Documentation](https://docs.telefonica-hispam.com/)
-- [Developer Guides](https://github.com/telefonica-hispam/guides)
-- [Community Forums](https://github.com/telefonica-hispam/community-forums)
+- [Sitio Web Oficial](https://www.telefonica.com/)
+- [Documentación de API](https://docs.telefonica-hispam.com/)
+- [Guías para Desarrolladores](https://github.com/telefonica-hispam/guides)
+- [Foros de la Comunidad](https://github.com/telefonica-hispam/community-forums)
 
-If you have any questions or need assistance, don't hesitate to reach out to us.
+Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarnos.
 
-Happy coding! 👩‍💻🚀👨‍💻
+¡Feliz codificación! 👩‍💻🚀👨‍💻
