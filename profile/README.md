@@ -35,8 +35,5 @@ If you have any questions or need assistance, don't hesitate to reach out to us.
 
 - We also organize regular hackathons where our talented developers showcase their innovative ideas and create exciting projects.
 
-Remember, the possibilities are endless with Telefónica Hispam. Join us in shaping the future of telecommunications!
-
-🧙‍♂️ With the power of Markdown, you can make your README files look amazing. Check out the [Markdown Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to unleash your creativity.
 
 Happy coding! 👩‍💻🚀👨‍💻
