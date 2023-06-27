@@ -29,11 +29,4 @@ Here are some resources where you can find more information about our projects a
 
 If you have any questions or need assistance, don't hesitate to reach out to us.
 
-## 🍿 Fun Facts
-
-- Did you know that our team enjoys having breakfast together every morning? It's a great way to start the day and foster a sense of community.
-
-- We also organize regular hackathons where our talented developers showcase their innovative ideas and create exciting projects.
-
-
 Happy coding! 👩‍💻🚀👨‍💻
