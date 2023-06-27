@@ -4,7 +4,7 @@
 
 ## 🙋‍♀️ Sobre Nosotros
 
-Telefónica Hispam es una empresa de tecnología enfocada en brindar soluciones y servicios innovadores en la industria de las telecomunicaciones. Nuestra misión es conectar personas y habilitar la transformación digital en los mercados hispanos y latinoamericanos.
+Telefónica Hispam es una empresa de tecnología enfocada en brindar soluciones y servicios innovadores en la industria de las telecomunicaciones. Nuestra misión es hacer nuestro mundo más humano, conectando la vida de las personas.
 
 ## 🌈 Pautas de Contribución
 
